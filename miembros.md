@@ -1,6 +1,6 @@
 # Miembros
 
-- Nick Fury
+- Nick Furys
 - Capitán America
 - Black panther
 - Black Widow
